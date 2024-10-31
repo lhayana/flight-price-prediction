@@ -2,6 +2,10 @@
 
 Este projeto foi desenvolvido como parte da disciplina de Aprendizado de Máquina do mestrado em Inteligência Computacional na Universidade Federal do Rio Grande do Norte (UFRN). O estudo tem como objetivo prever os preços de passagens aéreas utilizando algoritmos de aprendizado de máquina.
 
+- **Notebook do Projeto**: [Flight_Price_Prediction.ipynb](./Flight_Price_Prediction.ipynb)
+- **Artigo Final**: [Artigo - Precificação de Passagens Aéreas.pdf](./Artigo%20-%20Precificação%20de%20Passagens%20Aéreas.pdf)
+- **Fonte dos Dados**: [Kaggle - Flight Price Prediction Dataset](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
+
 ## Objetivo
 
 O projeto visa identificar o modelo preditivo mais adequado para prever preços de passagens aéreas, considerando variáveis como companhia aérea, cidade de origem e destino, duração do voo, e número de escalas.
